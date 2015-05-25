@@ -102,7 +102,6 @@
         fbLink: null,
         youtubeLink: null,
         website: null.
-        intervalMessages: [],
         messageInterval: 5,
         songstats: true,
         commandLiteral: "!",
